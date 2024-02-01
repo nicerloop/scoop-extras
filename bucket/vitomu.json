@@ -1,12 +1,12 @@
 {
-    "version": "2.0.6",
+    "version": "2.1.0",
     "description": "A converter for online and offline videos to audio files.",
     "homepage": "https://github.com/digimezzo/vitomu",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/digimezzo/vitomu/releases/download/v2.0.6/Vitomu-2.0.6.exe#/dl.7z",
-            "hash": "34a368b904037aeb368ca865bf7cbeaa2673e0e79483dbab366345c73467e815"
+            "url": "https://github.com/digimezzo/vitomu/releases/download/v2.1.0/Vitomu-2.1.0.exe#/dl.7z",
+            "hash": "b9c6a767ce0fc4cbac0c7d33a0d021afca0fb3e978babc39dfd2e3f16b2ec255"
         }
     },
     "pre_install": [
